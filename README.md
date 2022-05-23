@@ -1,1 +1,1 @@
-# Digipet
+Digipet adalah program hewan peliharaan secara virtual. Digipet mempunyai 2 hewan peliharaan dengan status yang sudah disediakan happiness, health, dan cleanness. Program simpel ini dibuat dengan mengimplementasikan class dan object, constructor, encapsulation, inheritence, polymorphism, dan arraylist menggunakan Java. Sratus disini mulai dari 10, yang kemudian akan berubah sesuai dengan kegiatan yang diinginkan oleh pengguna, seperti makan, mandi, atau bermain. Program ini dibuat untuk tugas semester 4 mata kuliah Object Oriented Programming.
